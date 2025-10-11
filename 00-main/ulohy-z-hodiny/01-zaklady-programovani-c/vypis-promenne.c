@@ -1,20 +1,23 @@
-#include <stdio.h>
+// Tento program ukazuje práci s proměnnými v jazyce C.
 
-// Tento program vypíše jméno uživatele do konzole.
+#include <stdio.h>  // připojení standardní knihovny pro vstup a výstup
 
 int main() {
-    // Deklarace proměnné pro uložení jména (řetězce znaků).
-    char jmeno[50];
+    // Inicializace proměnné x typu int (celé číslo)
+    int x = 5;
 
-    // Výzva pro uživatele, aby zadal své jméno.
-    printf("Zadej sve jmeno: ");
+    // Výpis hodnoty proměnné x
+    printf("Hodnota x: %d\n", x); // Za formátovací značku %d se dosadí naše proměnná
 
-    // Načtení textu od uživatele ze vstupu (konzole).
-    scanf("%49s", jmeno);
+    // Inicializace další proměnné y a přiřazení hodnoty
+    int y = 8;
 
-    // Výpis zadaného jména.
-    printf("Ahoj, %s!\\n", jmeno);
+    // Výpis obou proměnných x a y
+    printf("Hodnota x: %d, hodnota y: %d\n", x, y);
 
-    // Ukončení programu.
+    // Výpis výsledku součtu
+    printf("Hodnota x: %d, hodnota y: %d, součet x + y = %d\n", x, y, x + y); // Podle počtu formátovacích značek musíme dosadit stejný počet proměnných
+
+    // Návratová hodnota 0 znamená, že program proběhl úspěšně
     return 0;
 }
