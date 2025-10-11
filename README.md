@@ -10,10 +10,13 @@ Tento repozitář obsahuje materiály pro třídu **2EA** ve školním roce **20
 - `00-main/ulohy-z-hodiny` – zdrojové kódy z hodiny, látka probíraná na hodinách  
 
 ### Programování v C
-- `01-C/01-promenne-a-datove-typy` – proměnné a datové typy, ukázky kódu, řešení  
-- `01-C/02-podminky` – podmínky a větvení programu, ukázky kódu, řešení  
-- `01-C/03-cykly` – cykly, ukázky kódu, řešení  
-- `01-C/04-datove-struktury` – datové struktury (pole, řetězce, …), ukázky kódu, řešení    
+- `01-uvod-do-jazyka-c` – úvodní kód, výpisy do konzole 
+- `02-promenne-a-datove-typy` – proměnné a datové typy, ukázky kódu, řešení  
+- `03-podminky` – podmínky a větvení programu, ukázky kódu, řešení  
+- `04-cykly` – cykly, ukázky kódu, řešení  
+- `05-pole-a-text` – pole, řetězce, ukázky kódu, řešení
+- `06-funkce-a-struktury` – datové struktury, funkce, ukázky kódu, řešení
+- `07-zaklady-mikropocitacu` – úvod do arduina, ukázky kódu, řešení   
 
 ## 📝 Pravidla
 - **Domácí úkoly** odevzdávejte do [Moodle] do stanoveného termínu.  
