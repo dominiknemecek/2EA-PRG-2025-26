@@ -1,7 +1,6 @@
 # 📘 Informace k předmětu PRG – Programování v C/C++
 
-Tento repozitář obsahuje materiály pro třídu **2EA** ve školním roce **2025/26**.  
-Najdete zde zdrojové kódy, příklady a úlohy probírané na hodinách programování v jazyce **C** a také částečně na platformě **Arduino**.
+Tento repozitář obsahuje materiály pro třídu **2EA** ve školním roce **2025/26**. Najdete zde zdrojové kódy, příklady a úlohy probírané na hodinách programování v jazyce **C** a také částečně na platformě **Arduino**.
 
 ## 📂 Obsah repozitáře 
 
