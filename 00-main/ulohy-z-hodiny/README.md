@@ -9,7 +9,8 @@ Tady najdete přehled všech hodin – co se probíralo, kdy to bylo a ve které
 | Proměnné, datové typy a podmínky      | `03-zaklady-programovani-c`                | 2025-10-21        | 2025-10-20      | Práce s proměnnými, podmínky a větvení programu |
 | Proměnné, datové typy a podmínky       | `04-zaklady-programovani-c`                | 2025-11-04        | 2025-11-03      | Práce s proměnnými, podmínky a větvení programu + Moodle test |
 | Proměnné, datové typy, podmínky a cykly     | `05-zaklady-programovani-c`                | 2025-11-10        | 2025-11-11      | Práce s proměnnými, podmínky a větvení programu, cykly v programování |
-| Proměnné, datové typy, podmínky a cykly      | `06-zaklady-programovani-c`                | -        | -      | Práce s proměnnými, podmínky a větvení programu, cykly v programování | 
+| Proměnné, datové typy, podmínky a cykly      | `06-zaklady-programovani-c`                | 2025-11-18        | 2025-11-25      | Práce s proměnnými, podmínky a větvení programu, cykly v programování, S2 - Moodle test | 
+| Proměnné, datové typy, podmínky a cykly      | `06-zaklady-programovani-c`                | 2025-11-24        | 2025-12-01     | Práce s proměnnými, podmínky a větvení programu, cykly v programování, S1 - Moodle test | 
 | -      | ` -`                | -        | -      | - |  - |
 | -      | ` -`                | -        | -      | - |  - |
 | -      | ` -`                | -        | -      | - |  - |
