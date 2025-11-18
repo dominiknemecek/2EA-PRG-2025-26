@@ -20,28 +20,23 @@ int main() {
     // kontrola, zda je diskriminant v rozumném rozsahu (-999 až 999)
     if (diskriminantCislo >= -999 && diskriminantCislo <= 999)
     {
+        printf("+----------------------+\n");
+        printf("a = %d\nb = %d\nc = %d\nDiskriminant = %d\n", prvniCislo, druheCislo, tretiCislo, diskriminantCislo);
+        printf("+----------------------+\n");
+        
         if (diskriminantCislo > 0)
         {
             // D > 0 → dva různé reálné kořeny
-            printf("+----------------------+\n");
-            printf("a = %d\nb = %d\nc = %d\nDiskriminant = %d\n", prvniCislo, druheCislo, tretiCislo, diskriminantCislo);
-            printf("+----------------------+\n");
             printf("Výsledek: Dva reálné kořeny\n");
         }
         else if (diskriminantCislo == 0)
         {
             // D = 0 → jeden dvojnásobný (dvojitý) kořen
-            printf("+----------------------+\n");
-            printf("a = %d\nb = %d\nc = %d\nDiskriminant = %d\n", prvniCislo, druheCislo, tretiCislo, diskriminantCislo);
-            printf("+----------------------+\n");
             printf("Výsledek: Jeden dvojnásobný kořen\n");
         }
         else
         {
             // D < 0 → nemá žádné reálné kořeny (pouze komplexní)
-            printf("+----------------------+\n");
-            printf("a = %d\nb = %d\nc = %d\nDiskriminant = %d\n", prvniCislo, druheCislo, tretiCislo, diskriminantCislo);
-            printf("+----------------------+\n");
             printf("Výsledek: Nemá reálné kořeny\n");
         }
     }
